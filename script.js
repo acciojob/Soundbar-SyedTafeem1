@@ -1,6 +1,6 @@
 //your JS code here. If required.
         const btn = document.querySelectorAll(".btn")
-        const audios = document.querySelectorAll("#myAudio");
+       const audios = document.querySelectorAll("audio");
         const stop = document.querySelector(".stop")
 
         btn.forEach((bt,index)=>{
